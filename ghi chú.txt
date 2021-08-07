@@ -1,0 +1,5 @@
+git add.
+
+git commit -m ' tên massage'
+
+git push origin master
